@@ -1,0 +1,7 @@
+{
+    "fruits": [
+        {"type":  "apple", "weight":  80},
+        {"type":  "cherry", "weight":  8},
+        {"type":  "lime", "weight":  60}
+    ]
+}
